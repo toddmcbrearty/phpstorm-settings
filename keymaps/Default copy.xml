@@ -1,8 +1,15 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="meta alt s" second-keystroke="h" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt s" second-keystroke="v" />
   </action>
+  <action id="Uml.ShowDiff" />
 </keymap>
