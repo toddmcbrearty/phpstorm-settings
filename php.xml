@@ -1,0 +1,5 @@
+<application>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="selectVariableNameWithoutDollar" value="true" />
+  </component>
+</application>
