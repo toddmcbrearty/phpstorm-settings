@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="1.4" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
 </application>
