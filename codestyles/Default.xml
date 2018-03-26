@@ -5,6 +5,9 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="FIELDS_DEFAULT_VISIBILITY" value="protected" />
   </PHPCodeStyleSettings>
