@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="Console.Execute.Multiline">
+    <keyboard-shortcut first-keystroke="meta enter" />
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
