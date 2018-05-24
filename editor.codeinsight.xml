@@ -2,6 +2,9 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
