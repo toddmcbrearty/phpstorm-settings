@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="ifex" value="if(!function_exists('$FUNCTION_NAME$')) {&#10;    function $FUNCTION_NAME$() {&#10;    &#10;        $END$&#10;    }&#10;}" description="if function exists helper" toReformat="false" toShortenFQNames="true">
+    <variable name="FUNCTION_NAME" expression="camelCase(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
