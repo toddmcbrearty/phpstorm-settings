@@ -2,12 +2,16 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.0.4-2018.1" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColor" value="565960" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="607d8b" />
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
+    <option name="treeFontSize" value="14" />
+    <option name="fileStatusColorsEnabled" value="true" />
     <option name="userId" value="-8d42139:163ea72f20e:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
   </component>
 </application>
