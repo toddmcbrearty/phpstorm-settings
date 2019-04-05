@@ -17,6 +17,11 @@
     <option name="FIELDS_DEFAULT_VISIBILITY" value="protected" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
