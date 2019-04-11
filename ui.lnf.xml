@@ -1,0 +1,5 @@
+<application>
+  <component name="UISettings">
+    <option name="MAX_CLIPBOARD_CONTENTS" value="50" />
+  </component>
+</application>
