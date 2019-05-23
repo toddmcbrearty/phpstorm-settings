@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c73e0f34-1079-426d-8d76-89e8993e1104" name="Lucid" url="http://52.200.145.140">
+        <fileTransfer host="52.200.145.140" port="22" rootFolder="/var/www/lucid" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
