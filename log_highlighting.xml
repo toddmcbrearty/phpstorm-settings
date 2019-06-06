@@ -3,8 +3,11 @@
     <Patterns>
       <list>
         <LogHighlightingPattern pattern="^\s*e(rror)?\s*$" action="HIGHLIGHT_LINE" fg="-65536" bold="true" stripe="true" />
-        <LogHighlightingPattern pattern="^\s*w(arning)?\s*$" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
+        <LogHighlightingPattern pattern="^\s*w(arn(ing)?)?\s*$" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
         <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="-12599489" />
+        <LogHighlightingPattern pattern="^[^.]+\.(ERROR):" fg="-7260630" stripe="true" />
+        <LogHighlightingPattern pattern="^[^.]+\.(WARNING):" fg="-15829527" stripe="true" />
+        <LogHighlightingPattern pattern="^(Stack|\#\d)" fg="-7237756" stripe="true" />
       </list>
     </Patterns>
     <parsing>
@@ -12,9 +15,10 @@
         <LogParsingPattern name="Pipe-separated" pattern="^(?s)([^|]*)\|([^|]*)\|([^|]*)\|(.*)$" timePattern="HH:mm:ss.SSS" linePattern="^\d" timeId="0" severityId="1" categoryId="2" />
         <LogParsingPattern name="IntelliJ IDEA" pattern="^([^\[]+)(\[[\s\d]+])\s*(\w*)\s*-\s*(\S*)\s*-(.+)$" timePattern="yyyy-MM-dd HH:mm:ss,SSS" linePattern="^\d" timeId="0" severityId="2" categoryId="3" />
         <LogParsingPattern name="TeamCity build log" pattern="^\[([^]]+)](.):\s*(\[[^]]+])?(.*)$" timePattern="HH:mm:ss" linePattern="^\[" timeId="0" severityId="1" categoryId="2" />
+        <LogParsingPattern name="Laravel" pattern="^\[([\d\s:-]+)\] ([^.]+)\.([^:]+): (.*)$" timePattern="yyyy-MM-dd HH:mm:ss" timeId="0" severityId="2" categoryId="1" />
       </list>
     </parsing>
-    <settingsVersion>3</settingsVersion>
+    <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
   </component>
 </application>
