@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".enc" type="PLAIN_TEXT" />
-      <mapping pattern="typescript" type="PLAIN_TEXT" />
       <mapping pattern="Button" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="SQL" />
     </extensionMap>
   </component>
 </application>
