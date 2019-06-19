@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".enc" type="PLAIN_TEXT" />
       <mapping pattern="Button" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
     </extensionMap>
   </component>
