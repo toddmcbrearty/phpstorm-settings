@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="41c6d851-1e46-4882-b2a0-3c231a9c4afa" name="PharmacyTimes" url="http://192.168.1.20">
+        <fileTransfer host="192.168.1.20" port="22" rootFolder="/var/www/html/" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
