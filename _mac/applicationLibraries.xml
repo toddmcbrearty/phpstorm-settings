@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="IframeApi" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_h.customerscanvas.com_Users_0694d502-628c-4a2a-b93a-5edce01b7014_SimplePolygraphy_Resources_SPEditor_Scripts_IFrame_IframeApi.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_h.customerscanvas.com_Users_0694d502-628c-4a2a-b93a-5edce01b7014_SimplePolygraphy_Resources_SPEditor_Scripts_IFrame_IframeApi.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
