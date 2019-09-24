@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="328dd1f0-3d25-4672-91bb-a9c6cc57111d" name="api" url="http://54.227.234.56">
+        <fileTransfer host="54.227.234.56" port="22" rootFolder="/home/ec2-user/environment/giftogram-order-site/dev/api" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d44b8d78-5318-4699-baed-a42f1c13ffcd" name="site" url="http://ggtodd.giftogram.com">
+        <fileTransfer host="54.227.234.56" port="22" rootFolder="/home/ec2-user/environment/giftogram-order-site/dev/site" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
