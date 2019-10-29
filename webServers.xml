@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9b69806c-4dbd-44e8-a94a-14d96b567f0d" name="ggordersite" url="http://54.227.234.56">
+        <fileTransfer host="54.227.234.56" port="22" rootFolder="/home/ec2-user/environment/giftogram-order-site" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
