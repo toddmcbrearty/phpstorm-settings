@@ -15,6 +15,7 @@
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="shift ctrl meta s" />
   </action>
+  <action id="GotoAction" />
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl meta u" />
   </action>
