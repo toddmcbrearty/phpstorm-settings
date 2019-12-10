@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4dc4ec40-95ee-4c08-93d0-969436f3c9d7" name="Admin" url="http://ggtodd.giftogram.com">
+        <fileTransfer host="54.227.234.56" port="22" rootFolder="/home/ec2-user/environment/giftogram-admin/site" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
