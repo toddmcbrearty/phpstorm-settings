@@ -33,7 +33,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="2581e4d2-b5cd-4edf-bfac-8759226b4296" name="NewApi" url="http://ggtodd.giftogram.com">
+      <webServer id="2581e4d2-b5cd-4edf-bfac-8759226b4296" name="NewApi" url="http://ggtoddapi.giftogram.com">
         <fileTransfer host="54.227.234.56" port="22" rootFolder="/home/ec2-user/environment/giftogram-api" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
