@@ -11,6 +11,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="bulma" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bulma@0.8.0_css_bulma.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bulma@0.8.0_css_bulma.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="IframeApi" type="javaScript">
       <properties>
         <sourceFilesUrls>
