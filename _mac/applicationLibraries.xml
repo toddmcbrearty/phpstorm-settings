@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="a32818c542" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_a32818c542.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_a32818c542.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="all" type="javaScript">
       <properties>
         <sourceFilesUrls>
