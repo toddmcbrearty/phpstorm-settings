@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern=".eslint" type="JSON" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".enc" type="PLAIN_TEXT" />
       <mapping pattern="browserlist" type="PLAIN_TEXT" />
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
