@@ -319,11 +319,11 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="styledt" value="import styled from 'styled-components;&#10;&#10;const $NAME$ = style.$ELEMENT$`&#10;&#10;`;&#10;&#10;expot default $NAME$" description="Creates a styled template" toReformat="false" toShortenFQNames="true">
+  <template name="st" value="import styled from 'styled-components;&#10;&#10;const $NAME$ = style.$ELEMENT$`&#10;&#10;`;&#10;&#10;expot default $NAME$" description="Creates a styled template" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JSX_HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
