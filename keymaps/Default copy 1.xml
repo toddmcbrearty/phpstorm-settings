@@ -15,6 +15,12 @@
     <keyboard-shortcut first-keystroke="meta enter" />
     <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="shift ctrl meta s" />
   </action>
@@ -23,7 +29,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta u" />
   </action>
   <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="shift ctrl meta p" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="RestoreDefaultLayout" />
   <action id="RevealIn">
@@ -38,4 +44,5 @@
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="ctrl meta alt t" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
