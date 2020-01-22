@@ -28,8 +28,13 @@
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl meta u" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="RestoreDefaultLayout" />
   <action id="RevealIn">
