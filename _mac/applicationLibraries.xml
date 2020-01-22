@@ -1,5 +1,38 @@
 <application>
   <component name="libraryTable">
+    <library name="a32818c542" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_a32818c542.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_a32818c542.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="all" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_font-awesome_5.11.2_css_all.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_font-awesome_5.11.2_css_all.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bulma" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bulma@0.8.0_css_bulma.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bulma@0.8.0_css_bulma.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="IframeApi" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -9,6 +42,36 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_h.customerscanvas.com_Users_0694d502-628c-4a2a-b93a-5edce01b7014_SimplePolygraphy_Resources_SPEditor_Scripts_IFrame_IframeApi.js" />
       </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-2.2.4" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.2.4.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.2.4.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.2.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
       <SOURCES />
     </library>
   </component>

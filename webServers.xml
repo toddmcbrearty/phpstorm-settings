@@ -1,0 +1,46 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="328dd1f0-3d25-4672-91bb-a9c6cc57111d" name="api" url="http://54.227.234.56">
+        <fileTransfer host="54.227.234.56" port="22" rootFolder="/home/ec2-user/environment/giftogram-order-site/dev/api" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d44b8d78-5318-4699-baed-a42f1c13ffcd" name="site" url="http://ggtodd.giftogram.com">
+        <fileTransfer host="54.227.234.56" port="22" rootFolder="/home/ec2-user/environment/giftogram-order-site/dev/site" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9b69806c-4dbd-44e8-a94a-14d96b567f0d" name="ggordersite" url="http://54.227.234.56">
+        <fileTransfer host="54.227.234.56" port="22" rootFolder="/home/ec2-user/environment/giftogram-order-site" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4dc4ec40-95ee-4c08-93d0-969436f3c9d7" name="Admin" url="http://ggtodd.giftogram.com">
+        <fileTransfer host="54.227.234.56" port="22" rootFolder="/home/ec2-user/environment/giftogram-admin/site" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2581e4d2-b5cd-4edf-bfac-8759226b4296" name="NewApi" url="http://ggtoddapi.giftogram.com">
+        <fileTransfer host="54.227.234.56" port="22" rootFolder="/home/ec2-user/environment/giftogram-api" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -1,4 +1,10 @@
 <keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl meta a" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl meta 0" />
+  </action>
   <action id="CodeHistoryMiningPopup">
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
@@ -9,11 +15,25 @@
     <keyboard-shortcut first-keystroke="meta enter" />
     <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="shift ctrl meta s" />
   </action>
+  <action id="GotoAction" />
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl meta u" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="RestoreDefaultLayout" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
@@ -21,4 +41,8 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl meta alt t" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
