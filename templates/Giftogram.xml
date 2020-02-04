@@ -1,0 +1,8 @@
+<templateSet group="Giftogram">
+  <template name="ricon" value="import React from 'react';&#10;import { Icon } from 'antd';&#10;&#10;const $NAME$Svg = ({ iconColor = 'white', backgroundColor = 'none' }) =&gt; (&#10;  $END$&#10;);&#10;&#10;const $NAME$Icon = props =&gt; &lt;Icon component={ $NAME$Svg } { ...props } /&gt;;&#10;&#10;export default $NAME$Icon" description="create icon file stub" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
