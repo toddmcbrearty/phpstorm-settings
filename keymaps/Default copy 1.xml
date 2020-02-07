@@ -34,7 +34,6 @@
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl meta u" />
   </action>
-  <action id="ReformatCode" />
   <action id="ReformatWithPrettierAction" />
   <action id="RestoreDefaultLayout" />
   <action id="RevealIn">
