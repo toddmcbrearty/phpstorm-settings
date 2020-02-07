@@ -4,7 +4,4 @@
       <server useHttp="false" host="github.com" />
     </account>
   </component>
-  <component name="GithubSettings">
-    <option name="OPEN_IN_BROWSER_GIST" value="false" />
-  </component>
 </application>
