@@ -15,4 +15,8 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="question" case-sensitive="true" pattern="\b\&lt;Todo\b.*" />
+  </component>
 </application>
