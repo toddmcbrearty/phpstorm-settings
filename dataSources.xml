@@ -10,7 +10,7 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://ggdev2.cluster-cfyuscwcftqh.us-east-1.rds.amazonaws.com:3306/</jdbc-url>
+      <jdbc-url>jdbc:mysql://ggdevmigrationtest-cluster.cluster-cfyuscwcftqh.us-east-1.rds.amazonaws.com:3306/</jdbc-url>
     </data-source>
   </component>
 </application>
