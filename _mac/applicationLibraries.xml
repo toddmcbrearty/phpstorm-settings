@@ -59,6 +59,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="Chart" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Chart.js_2.9.3_Chart.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Chart.js_2.9.3_Chart.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="IframeApi" type="javaScript">
       <properties>
         <sourceFilesUrls>
