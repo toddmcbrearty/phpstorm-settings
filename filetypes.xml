@@ -4,6 +4,7 @@
       <mapping pattern=".eslint" type="JSON" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="contacts" type="PLAIN_TEXT" />
+      <mapping pattern="Typography" type="PLAIN_TEXT" />
       <mapping pattern=".floo" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="browserlist" type="PLAIN_TEXT" />
