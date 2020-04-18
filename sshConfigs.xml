@@ -26,6 +26,16 @@
       <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="b7ffc802-b8ed-43f8-980c-e06962936042" port="22" customName="ggordersite" nameFormat="CUSTOM" />
       <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="33ba7388-22b4-4dc1-8057-7b43225973b8" port="22" customName="Admin" nameFormat="CUSTOM" />
       <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="f87263b8-e3dd-4ca0-a0bf-6697c9fc73d9" port="22" customName="NewApi" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="f657bf3f-7b3b-461d-aed4-e47a029d6ee4" port="22" customName="api" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="34ebcfcc-e4e4-4f90-bb22-889065e558d3" port="22" customName="site" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="7cb13c78-7614-49d7-a9de-e5e97abb8ebc" port="22" customName="ggordersite" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="a04e8f95-8a2a-4e4c-850e-1ff8978b876b" port="22" customName="Admin" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="26729a02-6d6d-4d27-809a-3fcfaf491a4b" port="22" customName="NewApi" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="2cdfe8c9-7bfe-4ed4-a651-e400b1563f09" port="22" customName="api" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="453f182c-3e3f-414d-8c41-76e1f950a6b8" port="22" customName="site" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="82d76ec8-3dde-47fd-85a6-d46510a0f86d" port="22" customName="ggordersite" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="02f9975b-ae8a-4e62-9677-d09f5724d6f8" port="22" customName="Admin" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="663cfc6b-ed75-4a5b-a8c0-576e4e5c164b" port="22" customName="NewApi" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
