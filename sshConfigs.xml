@@ -51,6 +51,11 @@
       <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="fb140dc3-53aa-4f20-8d2f-edcf8e4d6190" port="22" customName="ggordersite" nameFormat="CUSTOM" />
       <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="0116154a-6f53-4c64-82f2-bc4933cca764" port="22" customName="Admin" nameFormat="CUSTOM" />
       <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="629f45e3-7cad-4839-b926-08cc0a040ae3" port="22" customName="NewApi" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="d854e6cf-434c-443d-aed4-00500cafe0db" port="22" customName="api" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="fc0188e4-d049-4b65-9868-78f7d47e4e76" port="22" customName="site" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="96f0ff4a-64c4-49fe-b3ca-fcec5fc160d2" port="22" customName="ggordersite" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="827493f3-b8fe-4dfd-813a-c52669378cd1" port="22" customName="Admin" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="c5b122d1-3191-4423-8fd9-d3341aa381ee" port="22" customName="NewApi" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
