@@ -7,6 +7,7 @@
       <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="1ecb90ed-0447-4150-99ae-8bcc62374dd0" port="22" customName="Admin" nameFormat="CUSTOM" username="ec2-user" />
       <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="81e33f50-44b2-4b1d-8804-27bef584e0e1" port="22" customName="NewApi" nameFormat="CUSTOM" username="ec2-user" />
       <sshConfig authType="OPEN_SSH" host="52.21.40.197" id="d667526e-687c-4d9e-9736-68d715479981" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="f6e371c1-00ad-42c2-8906-0753dd6b984a" port="22" customName="NewApi" nameFormat="CUSTOM" username="ec2-user" />
     </configs>
   </component>
 </application>
