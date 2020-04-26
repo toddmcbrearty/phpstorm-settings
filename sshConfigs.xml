@@ -1,0 +1,12 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="4311ad92-0276-44be-863c-5e0d4d9063ce" port="22" customName="api" nameFormat="CUSTOM" username="ec2-user" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="83f71736-d76d-419f-bb51-eef465a0c7da" port="22" customName="site" nameFormat="CUSTOM" username="ec2-user" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="6153d339-8a4e-42f6-ad85-91fc7f452f14" port="22" customName="ggordersite" nameFormat="CUSTOM" username="ec2-user" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="1ecb90ed-0447-4150-99ae-8bcc62374dd0" port="22" customName="Admin" nameFormat="CUSTOM" username="ec2-user" />
+      <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="81e33f50-44b2-4b1d-8804-27bef584e0e1" port="22" customName="NewApi" nameFormat="CUSTOM" username="ec2-user" />
+      <sshConfig authType="OPEN_SSH" host="52.21.40.197" id="d667526e-687c-4d9e-9736-68d715479981" nameFormat="DESCRIPTIVE" username="ec2-user" />
+    </configs>
+  </component>
+</application>
