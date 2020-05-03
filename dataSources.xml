@@ -4,7 +4,7 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://127.0.0.1:3306/giftogram20</jdbc-url>
+      <jdbc-url>jdbc:mysql://127.0.0.1:33061/giftogram20</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="aurora" uuid="bb71c1a5-fe31-45cf-a266-5d04f7f6890f">
       <driver-ref>mysql.8</driver-ref>
