@@ -2,16 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".eslint" type="JSON" />
-      <mapping pattern=".enc" type="PLAIN_TEXT" />
-      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
-      <mapping pattern="help" type="PLAIN_TEXT" />
-      <mapping pattern="contacts" type="PLAIN_TEXT" />
-      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="contacts" type="PLAIN_TEXT" />
+      <mapping pattern=".enc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="Button" type="PLAIN_TEXT" />
       <mapping pattern="DB" type="PLAIN_TEXT" />
       <mapping pattern="browserlist" type="PLAIN_TEXT" />
+      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
+      <mapping pattern="Button" type="PLAIN_TEXT" />
+      <mapping pattern="help" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping ext="sketch" type="PLAIN_TEXT" />
       <mapping ext="shj" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
