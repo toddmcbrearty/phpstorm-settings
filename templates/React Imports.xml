@@ -1,0 +1,7 @@
+<templateSet group="React Imports">
+  <template name="importPT" value="import PropTypes from 'prop-types';" description="import prop types" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
