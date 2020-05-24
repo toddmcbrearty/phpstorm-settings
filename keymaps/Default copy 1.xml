@@ -42,6 +42,10 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl meta alt r" />
   </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
