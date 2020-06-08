@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Close Class Methods">
+      <action id="ExpandAllToLevel1" />
+    </macro>
+  </component>
+</application>
