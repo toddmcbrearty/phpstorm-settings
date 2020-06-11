@@ -1,7 +1,0 @@
-<templateSet group="Giftogram">
-  <template name="il" value="import Lang from 'components/utility/intlMessages';" description="Import language utility" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
