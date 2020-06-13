@@ -1,0 +1,10 @@
+<templateSet group="Laravel-Helpers">
+  <template name="Helper::secure_asset" value="secure_asset('$LINK$', $TITLE$, $ATTRIBUTES$);$END$" description="Generate a HTML link to the given asset using HTTPS" toReformat="true" toShortenFQNames="true">
+    <variable name="LINK" expression="" defaultValue="&quot;foo/bar.zip&quot;" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="&quot;$title&quot;" alwaysStopAt="true" />
+    <variable name="ATTRIBUTES" expression="" defaultValue="&quot;$attributes&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
+  </template>
+</templateSet>
