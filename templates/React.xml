@@ -74,7 +74,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="scu" value="&#10;shouldComponentUpdate(nextProps, nextState) {&#10;    $END$&#10;}&#10;" description="Invoked before rendering when new props or state are being received." toReformat="true" toShortenFQNames="true">
+  <template name="scu" value="  // eslint-disable-next-line no-unused-vars&#10;shouldComponentUpdate(nextProps, nextState, snapshot) {&#10;    $END$&#10;}&#10;" description="Invoked before rendering when new props or state are being received." toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
@@ -326,11 +326,6 @@
     </context>
   </template>
   <template name="cdu" value="// eslint-disable-next-line no-unused-vars&#10;  componentDidUpdate(prevProps, prevState, snapshot) {&#10;    &#10;  }" description="componentDidUpdate with arguments" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="csu" value="// eslint-disable-next-line no-unused-vars&#10;  shouldComponentUpdate(nextProps, nextState, nextContext) {&#10;    $END$&#10;  }" description="componentShouldUpdate with arguments" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
