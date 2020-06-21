@@ -41,10 +41,12 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.0.1_dist_alpine.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.x.x_dist_alpine.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.0.1_dist_alpine.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.x.x_dist_alpine.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -130,6 +132,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@tailwindcss_ui@latest_dist_tailwind-ui.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="tailwindcss" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tailwindcss_1.4.6_tailwind.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tailwindcss_1.4.6_tailwind.css" />
       </CLASSES>
       <SOURCES />
     </library>
