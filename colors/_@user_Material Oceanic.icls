@@ -4,7 +4,7 @@
     <property name="created">2019-08-24T11:05:34</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-07-02T08:24:49</property>
+    <property name="modified">2020-07-02T15:22:43</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -335,7 +335,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.KEYWORD" baseAttributes="" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="b2ccd6" />
@@ -357,7 +357,7 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
