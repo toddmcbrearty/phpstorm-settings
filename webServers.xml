@@ -1,36 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="328dd1f0-3d25-4672-91bb-a9c6cc57111d" name="api" url="http://54.227.234.56">
-        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-order-site/dev/api" accessType="SFTP" sshConfigId="e8f36cc9-084d-463e-be3d-9434f1f494c7" sshConfig="api">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="d44b8d78-5318-4699-baed-a42f1c13ffcd" name="site" url="http://ggtodd.giftogram.com">
-        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-order-site/dev/site" accessType="SFTP" sshConfigId="9fdfb9bd-4ffe-4429-ad43-4c9a4aabf7a8" sshConfig="site">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="9b69806c-4dbd-44e8-a94a-14d96b567f0d" name="ggordersite" url="http://54.227.234.56">
-        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-order-site" accessType="SFTP" sshConfigId="d4b55388-3d5b-4692-9fd3-ad6b00cec359" sshConfig="ggordersite">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="4dc4ec40-95ee-4c08-93d0-969436f3c9d7" name="Admin" url="http://ggtodd.giftogram.com">
-        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-admin/site" accessType="SFTP" sshConfigId="45d8972c-77f4-425b-968a-3f63a8fde194" sshConfig="Admin">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="2581e4d2-b5cd-4edf-bfac-8759226b4296" name="NewApi" url="http://ggtoddapi.giftogram.com">
-        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-api" accessType="SFTP" sshConfigId="ff053619-70ab-4ec2-9657-71ea6a092d92" sshConfig="NewApi">
+      <webServer id="9b69806c-4dbd-44e8-a94a-14d96b567f0d" name="Site" url="http://ggtodd.giftogram.com">
+        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-order-site" accessType="SFTP" host="54.227.234.56" port="22" sshConfigId="17469e04-2645-46b4-a628-006c3c31a4a7" sshConfig="GGTodd" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
