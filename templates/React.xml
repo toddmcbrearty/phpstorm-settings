@@ -67,7 +67,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cwr" value="&#10;componentWillReceiveProps(nextProps) {&#10;    $END$&#10;}&#10;" description="Invoked when a component is receiving new props. This method is not called for the initial render." toReformat="true" toShortenFQNames="true">
+  <template name="cwr" value="&#10;componentWillReceiveProps(nextProps) {&#10;    $END$&#10;}&#10;" description="Invoked when a component is receiving new props. This method is not called for the initial render." toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
