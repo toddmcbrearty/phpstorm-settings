@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" host="54.227.234.56" id="17469e04-2645-46b4-a628-006c3c31a4a7" port="22" customName="GGTodd" nameFormat="CUSTOM" username="ec2-user" />
+      <sshConfig authType="OPEN_SSH" host="52.21.40.197" id="adcd7908-6fde-44a3-9f2c-d65c3775a951" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </application>
