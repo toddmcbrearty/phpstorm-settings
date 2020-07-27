@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="2980484" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.hs-scripts.com_2980484.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.hs-scripts.com_2980484.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="9a00513902" type="javaScript">
       <properties>
         <sourceFilesUrls>
