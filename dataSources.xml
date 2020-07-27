@@ -12,5 +12,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://ggdevmigrationtest-cluster.cluster-cfyuscwcftqh.us-east-1.rds.amazonaws.com/giftogram20</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="PRODUCTION" uuid="8ef34d44-8191-4cf9-ac9d-2aa38b49f559">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://giftogram20enc.cfyuscwcftqh.us-east-1.rds.amazonaws.com:3306/giftogram20</jdbc-url>
+    </data-source>
   </component>
 </application>
