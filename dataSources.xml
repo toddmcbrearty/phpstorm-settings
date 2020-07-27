@@ -1,12 +1,12 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="giftogram20@127.0.0.1" uuid="7dd1b6ed-8a05-4de1-9c97-488560d9a5ee">
+    <data-source source="LOCAL" name="LOCAL" uuid="7dd1b6ed-8a05-4de1-9c97-488560d9a5ee">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://127.0.0.1:33061/giftogram20</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="aurora" uuid="bb71c1a5-fe31-45cf-a266-5d04f7f6890f">
+    <data-source source="LOCAL" name="DEV" uuid="bb71c1a5-fe31-45cf-a266-5d04f7f6890f">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
