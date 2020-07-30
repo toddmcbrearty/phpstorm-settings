@@ -61,6 +61,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="babel-polyfill" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-polyfill_7.10.4_polyfill.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-polyfill_7.10.4_polyfill.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="bulma" type="javaScript">
       <properties>
         <sourceFilesUrls>
