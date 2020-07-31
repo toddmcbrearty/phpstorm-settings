@@ -3,6 +3,9 @@
     <account id="b83bcac1-bbcf-42dc-ab61-ec21e50cca6f" name="toddmcbrearty">
       <server useHttp="false" host="github.com" />
     </account>
+    <account id="50552d28-ac23-4e57-8843-c8b9b4ec8406" name="toddmcbrearty">
+      <server host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="COPY_URL_GIST" value="true" />
