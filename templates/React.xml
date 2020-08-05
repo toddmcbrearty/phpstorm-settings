@@ -325,7 +325,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cdu" value="// eslint-disable-next-line unused-imports/no-unused-vars&#10;componentDidUpdate(prevProps, prevState, snapshot) {&#10;&#10;}" description="componentDidUpdate with arguments" toReformat="true" toShortenFQNames="true">
+  <template name="cdu" value="// eslint-disable-next-line no-unused-vars&#10;componentDidUpdate(prevProps, prevState, snapshot) {&#10;&#10;}" description="componentDidUpdate with arguments" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
