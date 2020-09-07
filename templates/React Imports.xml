@@ -1,0 +1,17 @@
+<templateSet group="React Imports">
+  <template name="impt" value="import PropTypes from 'prop-types';" description="import prop types" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imcn" value="import {connect} from 'react-redux';" description="import  redux connect" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imlng" value="import Lang from 'components/utility/intlMessages';" description="Import language utility" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

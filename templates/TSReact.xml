@@ -1,0 +1,8 @@
+<templateSet group="TSReact">
+  <template name="mstp" value="const mapStateToProps = (state) =&gt; {&#10;  return {&#10;    $END$&#10;  };&#10;};" description="mapStateToProps" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

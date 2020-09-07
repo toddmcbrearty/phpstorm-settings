@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="2980484" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.hs-scripts.com_2980484.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.hs-scripts.com_2980484.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="9a00513902" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -41,10 +52,34 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.0.1_dist_alpine.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.x.x_dist_alpine.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.0.1_dist_alpine.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.x.x_dist_alpine.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="aws-sdk-2.474.0" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_sdk.amazonaws.com_js_aws-sdk-2.474.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_sdk.amazonaws.com_js_aws-sdk-2.474.0.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="babel-polyfill" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-polyfill_7.10.4_polyfill.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-polyfill_7.10.4_polyfill.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -70,6 +105,28 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="es6-shim" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_es6-shim_0.35.5_es6-sham.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_es6-shim_0.35.5_es6-sham.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="font-awesome" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_font-awesome_5.11.2_css_all.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_font-awesome_5.11.2_css_all.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="IframeApi" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -78,6 +135,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_h.customerscanvas.com_Users_0694d502-628c-4a2a-b93a-5edce01b7014_SimplePolygraphy_Resources_SPEditor_Scripts_IFrame_IframeApi.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="inter" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rsms.me_inter_inter.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rsms.me_inter_inter.css" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -119,6 +187,19 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@tailwindcss_ui@latest_dist_tailwind-ui.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="tailwindcss" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tailwindcss_1.4.6_tailwind.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tailwindcss@^1.0_dist_tailwind.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_tailwindcss_1.4.6_tailwind.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tailwindcss@^1.0_dist_tailwind.css" />
       </CLASSES>
       <SOURCES />
     </library>

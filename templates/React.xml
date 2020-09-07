@@ -67,14 +67,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cwr" value="&#10;componentWillReceiveProps(nextProps) {&#10;    $END$&#10;}&#10;" description="Invoked when a component is receiving new props. This method is not called for the initial render." toReformat="true" toShortenFQNames="true">
+  <template name="cwr" value="&#10;componentWillReceiveProps(nextProps) {&#10;    $END$&#10;}&#10;" description="Invoked when a component is receiving new props. This method is not called for the initial render." toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="scu" value="&#10;shouldComponentUpdate(nextProps, nextState) {&#10;    $END$&#10;}&#10;" description="Invoked before rendering when new props or state are being received." toReformat="true" toShortenFQNames="true">
+  <template name="scu" value="  // eslint-disable-next-line no-unused-vars&#10;shouldComponentUpdate(nextProps, nextState, snapshot) {&#10;    $END$&#10;}&#10;" description="Invoked before rendering when new props or state are being received." toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
@@ -324,5 +324,16 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
+  </template>
+  <template name="cdu" value="// eslint-disable-next-line no-unused-vars&#10;componentDidUpdate(prevProps, prevState, snapshot) {&#10;&#10;}" description="componentDidUpdate with arguments" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="useState" value="const [$state$, set$setState$] = useState($initState$);$END$&#10;" description="useState" toReformat="true" toShortenFQNames="true">
+    <variable name="state" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="setState" expression="capitalize(String)" defaultValue="$STATE$" alwaysStopAt="false" />
+    <variable name="initState" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>

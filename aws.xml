@@ -1,0 +1,18 @@
+<application>
+  <component name="aws">
+    <option name="promptedForTelemetry" value="true" />
+    <option name="telemetryEnabled" value="false" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="id" value="cloud-debugCli" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="id" value="samCli" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+</application>

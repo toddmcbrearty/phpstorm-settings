@@ -3,6 +3,10 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
+          <option name="groupName" value="TSReact" />
+          <option name="key" value="cms" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_if" />
         </TemplateKey>
@@ -117,6 +121,326 @@
         <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_command exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngdcf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngdlf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngdc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngdl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngfor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngindex" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngsa" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngst" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngma" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngmc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngmfa" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngms" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngmfi" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngrw" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngrwr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="ngro" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="$f" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="$v" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="$va" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="$w" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="$on" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="$b" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS " />
+          <option name="key" value="$e" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-class" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngClass" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngFor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngFor-trackBy" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngForAsync" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-formControlName" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-formGroup" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-formGroupName" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngIf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngIfElse" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngModel" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-routerLink" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-routerLink-param" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-select" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngStyle" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngSwitch" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-preja" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-prej" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-style" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-path-404" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-guard-can-activate" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-guard-can-activate-child" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-guard-can-deactivate" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-guard-can-load" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-component" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-component-inline" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-preload-strategy" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-path-default" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-directive" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-path-eager" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-service-httpclient" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-http-interceptor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-http-interceptor-headers" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-http-interceptor-logging" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-path-lazy" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-module" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ctor-skip-self" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-module-with-routing" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-pipe" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-injectable-providedin" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-component-root" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-module-root" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-path-with-children" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-router-events" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-service" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-httpclient-get" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngrx-data-entity-collection-data-service" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngrx-data-entity-metadata" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngrx-data-store-module" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-output-event" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-params-subscribe" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-rxjs-import" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-rxjs-operator-import" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-subscribe" />
         </TemplateKey>
       </list>
     </option>
