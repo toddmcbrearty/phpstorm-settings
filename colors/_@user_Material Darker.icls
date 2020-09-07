@@ -4,7 +4,7 @@
     <property name="created">2018-03-16T02:33:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2020-06-12T08:57:25</property>
+    <property name="modified">2020-09-07T16:00:57</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.459" />
@@ -72684,7 +72684,7 @@
         <option name="BACKGROUND" value="323232" />
       </value>
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -73155,9 +73155,9 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
