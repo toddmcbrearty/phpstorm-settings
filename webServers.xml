@@ -2,21 +2,21 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="9b69806c-4dbd-44e8-a94a-14d96b567f0d" name="Site" url="http://ggtodd.giftogram.com">
-        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-order-site" accessType="SFTP" host="54.227.234.56" port="22" sshConfigId="17469e04-2645-46b4-a628-006c3c31a4a7" sshConfig="GGTodd" authAgent="true">
+        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-order-site" accessType="SFTP" sshConfigId="17469e04-2645-46b4-a628-006c3c31a4a7" sshConfig="GGTodd">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="fa5585a7-d4cd-48a4-91c0-c5ee2132974a" name="API Ordersite" url="http://ggtodd.giftogram.com">
-        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-order-site/dev/api" accessType="SFTP" host="54.227.234.56" port="22" sshConfigId="17469e04-2645-46b4-a628-006c3c31a4a7" sshConfig="GGTodd" authAgent="true">
+        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-order-site/dev/api" accessType="SFTP" sshConfigId="17469e04-2645-46b4-a628-006c3c31a4a7" sshConfig="GGTodd">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="100e59d5-1dbb-4cc9-90c4-79c482fee420" name="Site Ordersite" url="http://ggtodd.giftogram.com">
-        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-order-site/dev/site" accessType="SFTP" host="54.227.234.56" port="22" sshConfigId="17469e04-2645-46b4-a628-006c3c31a4a7" sshConfig="GGTodd" authAgent="true">
+        <fileTransfer rootFolder="/home/ec2-user/environment/giftogram-order-site/dev/site" accessType="SFTP" sshConfigId="17469e04-2645-46b4-a628-006c3c31a4a7" sshConfig="GGTodd">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
