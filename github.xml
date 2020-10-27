@@ -9,5 +9,6 @@
   </component>
   <component name="GithubSettings">
     <option name="COPY_URL_GIST" value="true" />
+    <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
