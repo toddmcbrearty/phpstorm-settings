@@ -10,6 +10,7 @@
       <mapping pattern="help" type="PLAIN_TEXT" />
       <mapping pattern=".enc" type="PLAIN_TEXT" />
       <mapping pattern="browserlist" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern="DB" type="PLAIN_TEXT" />
       <mapping pattern="atoms" type="PLAIN_TEXT" />
