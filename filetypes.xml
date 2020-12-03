@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".eslint" type="JSON" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Button" type="PLAIN_TEXT" />
