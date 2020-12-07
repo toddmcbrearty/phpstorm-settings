@@ -179,6 +179,17 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="lib" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.designhuddle.com_editor_v1_lib.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.designhuddle.com_editor_v1_lib.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="tailwind-ui" type="javaScript">
       <properties>
         <sourceFilesUrls>
