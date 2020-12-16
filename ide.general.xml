@@ -23,6 +23,11 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="Encoding" value="false" />
+        <entry key="LineSeparator" value="false" />
+        <entry key="Position" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
         <entry key="mtStatusBar" value="false" />
       </map>
     </option>
