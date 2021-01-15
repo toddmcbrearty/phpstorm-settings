@@ -19,6 +19,7 @@
       <mapping ext="sketch" type="PLAIN_TEXT" />
       <mapping ext="shj" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="gstuff" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
       <mapping pattern="FormCheckbox" type="Vue.js" />
