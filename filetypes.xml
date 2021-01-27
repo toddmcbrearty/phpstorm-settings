@@ -17,6 +17,7 @@
       <mapping pattern="atoms" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping ext="sketch" type="PLAIN_TEXT" />
+      <mapping ext="state" type="PLAIN_TEXT" />
       <mapping ext="shj" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="gstuff" type="PLAIN_TEXT" />
