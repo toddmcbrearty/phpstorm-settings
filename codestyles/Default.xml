@@ -10,7 +10,6 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
-    <option name="USE_PATH_MAPPING" value="NEVER" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
