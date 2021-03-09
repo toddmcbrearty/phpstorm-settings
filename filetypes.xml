@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="readme" type="AUTO_DETECTED" />
       <mapping pattern=".eslint" type="JSON" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Button" type="PLAIN_TEXT" />
       <mapping pattern="contacts" type="PLAIN_TEXT" />
