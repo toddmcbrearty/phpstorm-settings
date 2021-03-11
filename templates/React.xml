@@ -336,4 +336,10 @@
     <variable name="initState" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="srt" value="import React from 'react';&#10;&#10;export default function $NAME$() {&#10;&#10;    return (&#10;        $END$&#10;    );&#10;}" description="standard react template" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
