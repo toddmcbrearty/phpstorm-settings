@@ -1,7 +1,6 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="52.21.40.197" id="adcd7908-6fde-44a3-9f2c-d65c3775a951" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
       <sshConfig authType="OPEN_SSH" host="52.21.40.197" id="2e890922-ed68-4ac9-9408-3f8bb6e888a9" port="22" customName="Tunnelbox" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="Tunnelbox" />
       </sshConfig>
