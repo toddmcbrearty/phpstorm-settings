@@ -4,6 +4,8 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
     <option name="LINE_SPACING" value="1.4" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Fira Code" />
@@ -19,7 +21,7 @@
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="composer.package.version.hints" />
+    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
