@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="9b69806c-4dbd-44e8-a94a-14d96b567f0d" name="C9" url="http://ggtodd.giftogram.com">
-        <fileTransfer rootFolder="/home/ubuntu/environment" accessType="SFTP" host="jumpbox" port="22" sshConfigId="2e890922-ed68-4ac9-9408-3f8bb6e888a9" sshConfig="Tunnelbox" authAgent="true">
+        <fileTransfer rootFolder="/home/ubuntu/environment" accessType="SFTP" host="c9" port="22" sshConfigId="f963be98-8f29-4d55-8de7-263b1e2fdc41" sshConfig="C9" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
