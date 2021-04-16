@@ -19,7 +19,6 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
-    <entry key="ide.mac.transparentTitleBarAppearance" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
@@ -30,7 +29,6 @@
         <entry key="Position" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="TypeScriptInfo" value="false" />
-        <entry key="mtStatusBar" value="false" />
         <entry key="php.language.level.widget" value="false" />
       </map>
     </option>
