@@ -24,6 +24,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="AwsSettingsPanel" value="false" />
         <entry key="Encoding" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
