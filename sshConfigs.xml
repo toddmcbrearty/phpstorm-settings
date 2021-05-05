@@ -4,6 +4,7 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jumpbox" id="2e890922-ed68-4ac9-9408-3f8bb6e888a9" port="22" customName="Tunnelbox" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="Tunnelbox" />
       </sshConfig>
+      <sshConfig host="localhost" id="f963be98-8f29-4d55-8de7-263b1e2fdc41" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" />
     </configs>
   </component>
 </application>
