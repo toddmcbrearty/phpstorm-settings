@@ -15,6 +15,8 @@
     <keyboard-shortcut first-keystroke="meta enter" />
     <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Diff.ApplyLeftSide" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -28,14 +30,25 @@
     <keyboard-shortcut first-keystroke="meta f9" />
   </action>
   <action id="GotoAction" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="MethodUp" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl s" second-keystroke="r" />
   </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
   <action id="PrettierImportCodeStyleAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta l" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl meta u" />
@@ -51,6 +64,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="ShowContent" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
