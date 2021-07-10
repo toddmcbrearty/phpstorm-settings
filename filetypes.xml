@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="readme" type="AUTO_DETECTED" />
+      <mapping pattern="_data.json" type="AUTO_DETECTED" />
       <mapping pattern=".eslint" type="JSON" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Button" type="PLAIN_TEXT" />
