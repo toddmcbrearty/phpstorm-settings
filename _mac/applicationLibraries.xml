@@ -33,6 +33,28 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="@blueprintjs/core" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_core@^3.10.0_lib_css_blueprint.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_core@^3.10.0_lib_css_blueprint.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="@blueprintjs/icons" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_icons@^3.4.0_lib_css_blueprint-icons.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_icons@^3.4.0_lib_css_blueprint-icons.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="@types/jest" type="javaScript">
       <CLASSES />
       <SOURCES />
