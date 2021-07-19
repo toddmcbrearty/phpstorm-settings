@@ -37,10 +37,12 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_core@^3.10.0_lib_css_blueprint.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_core@^3.47.0_lib_css_blueprint.css" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_core@^3.10.0_lib_css_blueprint.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_core@^3.47.0_lib_css_blueprint.css" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -224,6 +226,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.designhuddle.com_editor_v1_lib.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="modern-normalize" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_modern-normalize_0.2.0_modern-normalize.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_modern-normalize_0.2.0_modern-normalize.css" />
       </CLASSES>
       <SOURCES />
     </library>
