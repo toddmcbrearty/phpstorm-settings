@@ -32,6 +32,7 @@
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="TypeScriptInfo" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="php.language.level.widget" value="false" />
       </map>
     </option>
