@@ -1,23 +1,22 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="readme" type="AUTO_DETECTED" />
       <mapping pattern="_data.json" type="AUTO_DETECTED" />
+      <mapping pattern="readme" type="AUTO_DETECTED" />
       <mapping pattern=".eslint" type="JSON" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Button" type="PLAIN_TEXT" />
-      <mapping pattern="contacts" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".keys" type="PLAIN_TEXT" />
-      <mapping pattern="help" type="PLAIN_TEXT" />
-      <mapping pattern=".enc" type="PLAIN_TEXT" />
       <mapping pattern="browserlist" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
-      <mapping pattern="DB" type="PLAIN_TEXT" />
       <mapping pattern="atoms" type="PLAIN_TEXT" />
+      <mapping pattern="help" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
+      <mapping pattern=".enc" type="PLAIN_TEXT" />
+      <mapping pattern="contacts" type="PLAIN_TEXT" />
+      <mapping pattern="DB" type="PLAIN_TEXT" />
       <mapping ext="sketch" type="PLAIN_TEXT" />
       <mapping ext="state" type="PLAIN_TEXT" />
       <mapping ext="shj" type="PLAIN_TEXT" />
@@ -29,6 +28,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
