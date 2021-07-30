@@ -17,12 +17,8 @@
   </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="Diff.ApplyLeftSide" />
-  <action id="Diff.NextChange">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-  </action>
-  <action id="Diff.PrevChange">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="shift ctrl meta s" />
   </action>
