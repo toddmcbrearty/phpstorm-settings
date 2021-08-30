@@ -4,4 +4,9 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="v3trts" value="&lt;script :setup=&quot;true&quot; lang=&quot;ts&quot;&gt;&#10;import {ref} from 'vue'&#10;&#10;&lt;/script&gt;&#10;&#10;&lt;template&gt;&#10;&#10;&lt;/template&gt;&#10;&#10;&lt;style&gt;&#10;&#10;&lt;/style&gt;&#10;" description="Template with ref import and typescript support" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
