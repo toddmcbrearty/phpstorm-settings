@@ -1,0 +1,7 @@
+<templateSet group="Vue3">
+  <template name="v3tr" value="&lt;script setup&gt;&#10;import { ref } from 'vue'&#10;$END$&#10;&lt;/script&gt;&#10;&#10;&lt;template&gt;&#10;&#10;&lt;/template&gt;&#10;&#10;&lt;style&gt;&#10;&#10;&lt;/style&gt;&#10;" description="Template with ref import" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
