@@ -4,7 +4,7 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jumpbox" id="2e890922-ed68-4ac9-9408-3f8bb6e888a9" port="22" customName="Tunnelbox" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="Tunnelbox" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="c9" id="46ff85f9-921d-4402-97b2-63c013226bb7" port="22" customName="C9" nameFormat="CUSTOM" username="ubuntu">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="c9" id="f963be98-8f29-4d55-8de7-263b1e2fdc41" port="22" customName="C9" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
         <option name="customName" value="C9" />
       </sshConfig>
     </configs>
