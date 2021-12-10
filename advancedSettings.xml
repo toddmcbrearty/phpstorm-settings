@@ -3,6 +3,7 @@
     <option name="settings">
       <map>
         <entry key="bigger.font.in.project.view" value="true" />
+        <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
