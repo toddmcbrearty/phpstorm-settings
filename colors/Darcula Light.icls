@@ -1,0 +1,84 @@
+<scheme name="Darcula Light" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2021-12-22T10:13:19</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2021.3.0.0</property>
+    <property name="modified">2021-12-22T10:35:52</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Mono for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <colors>
+    <option name="FILESTATUS_ADDED" value="c3e88d" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_DELETED" value="808080" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+    <option name="FILESTATUS_MERGED" value="c792ea" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
+    <option name="FILESTATUS_SUPPRESSED" value="616161" />
+    <option name="FILESTATUS_SWITCHED" value="c792ea" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="c3e88d" />
+    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="e39d46" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="dbd3d3" />
+        <option name="BACKGROUND" value="282828" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
