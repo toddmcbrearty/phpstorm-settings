@@ -23,6 +23,7 @@
       <mapping ext="state" type="PLAIN_TEXT" />
       <mapping ext="shj" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="gstuff" type="PLAIN_TEXT" />
