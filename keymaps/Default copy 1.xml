@@ -38,6 +38,9 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="Jdbc.OpenConsole.New" />
+  <action id="LocalHistory">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="MethodUp" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl s" second-keystroke="r" />
