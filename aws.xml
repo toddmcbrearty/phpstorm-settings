@@ -1,0 +1,39 @@
+<application>
+  <component name="aws">
+    <option name="promptedForTelemetry" value="true" />
+    <option name="telemetryEnabled" value="false" />
+    <option name="useDefaultCredentialRegion" value="Prompt" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="id" value="cloud-debugCli" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="/usr/local/bin/sam" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1638372065534" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="/usr/local/bin/aws" />
+          <option name="id" value="awsCli" />
+          <option name="lastKnownFileTime" value="1608557145495" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+  <component name="updateLambdaState">
+    <option name="configs">
+      <map>
+        <entry key="arn:aws:lambda:us-east-1:179349435560:function:designHuddleToken">
+          <value>
+            <UpdateConfig />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

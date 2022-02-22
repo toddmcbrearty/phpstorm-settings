@@ -1,0 +1,7 @@
+<templateSet group="NextJS">
+  <template name="njsapi" value="export default async (req, res) =&gt; {&#10;  const response = 'Method not found';&#10;  let status = 500;&#10;  const {method} = req;&#10;    &#10;  $END$&#10;    &#10;  return res.status(status).json(response)&#10;}&#10;" description="Default api template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

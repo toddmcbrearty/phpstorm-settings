@@ -1,0 +1,22 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="DEVELOPMENT" uuid="bb71c1a5-fe31-45cf-a266-5d04f7f6890f">
+      <driver-ref>mysql_aurora</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql:aurora://ggdev2-cluster.cluster-cfyuscwcftqh.us-east-1.rds.amazonaws.com/giftogram20</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PRODUCTION READ ONLY" uuid="d3346584-3c47-4bda-8180-dda7f433503e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://giftogram20enc.cfyuscwcftqh.us-east-1.rds.amazonaws.com/giftogram20</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PRODUCTION WRITE" uuid="265c5e45-57bc-4f2a-941e-a8d230939d9f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://giftogram20enc.cfyuscwcftqh.us-east-1.rds.amazonaws.com/giftogram20</jdbc-url>
+    </data-source>
+  </component>
+</application>

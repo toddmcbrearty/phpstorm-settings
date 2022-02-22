@@ -1,0 +1,94 @@
+<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta numpad8" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl meta a" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
+  <action id="CodeHistoryMiningPopup">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="CodeHistoryMiningRunScript">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+  <action id="Console.Execute.Multiline">
+    <keyboard-shortcut first-keystroke="meta enter" />
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="DummyText.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
+  </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="shift ctrl meta s" />
+  </action>
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="meta f9" />
+  </action>
+  <action id="GotoAction" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="LocalHistory">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
+  <action id="MethodUp" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl s" second-keystroke="r" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PrettierImportCodeStyleAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta l" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta p" />
+  </action>
+  <action id="RestoreDefaultLayout" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
+  </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="shift alt equals" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="ShowContent" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl meta alt t" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl meta v" second-keystroke="d" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="ctrl meta z" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta z" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="Vcs.ReformatCommitMessage" />
+</keymap>

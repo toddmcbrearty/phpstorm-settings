@@ -1,0 +1,15 @@
+<filetype binary="false" description="Tailwind" name="TailwindCSS">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords keywords=".tw.css" ignore_case="false" />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="*.tw.css" />
+  </extensionMap>
+</filetype>

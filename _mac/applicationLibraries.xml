@@ -1,0 +1,277 @@
+<application>
+  <component name="libraryTable">
+    <library name="2980484" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.hs-scripts.com_2980484.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.hs-scripts.com_2980484.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="9a00513902" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_9a00513902.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_9a00513902.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="@babel/standalone" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@babel_standalone_babel.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@babel_standalone_babel.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="@blueprintjs/core" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_core@^3.10.0_lib_css_blueprint.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_core@^3.47.0_lib_css_blueprint.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_core@^3.10.0_lib_css_blueprint.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_core@^3.47.0_lib_css_blueprint.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="@blueprintjs/icons" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_icons@^3.4.0_lib_css_blueprint-icons.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_icons@^3.4.0_lib_css_blueprint-icons.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="@blueprintjs/popover2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_popover2_lib_css_blueprint-popover2.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@blueprintjs_popover2_lib_css_blueprint-popover2.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/prettier" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="a32818c542" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_a32818c542.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_a32818c542.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="all" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_font-awesome_5.11.2_css_all.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_font-awesome_5.11.2_css_all.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="alpine" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.0.1_dist_alpine.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.x.x_dist_alpine.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.0.1_dist_alpine.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.x.x_dist_alpine.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="aws-sdk-2.474.0" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_sdk.amazonaws.com_js_aws-sdk-2.474.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_sdk.amazonaws.com_js_aws-sdk-2.474.0.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="babel-polyfill" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-polyfill_7.10.4_polyfill.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-polyfill_7.10.4_polyfill.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bulma" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bulma@0.8.0_css_bulma.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bulma@0.8.0_css_bulma.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Chart" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Chart.js_2.9.3_Chart.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Chart.js_2.9.3_Chart.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="es6-shim" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_es6-shim_0.35.5_es6-sham.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_es6-shim_0.35.5_es6-sham.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="font-awesome" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_font-awesome_5.11.2_css_all.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_font-awesome_5.11.2_css_all.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="IframeApi" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_h.customerscanvas.com_Users_0694d502-628c-4a2a-b93a-5edce01b7014_SimplePolygraphy_Resources_SPEditor_Scripts_IFrame_IframeApi.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_h.customerscanvas.com_Users_0694d502-628c-4a2a-b93a-5edce01b7014_SimplePolygraphy_Resources_SPEditor_Scripts_IFrame_IframeApi.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="inter" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rsms.me_inter_inter.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rsms.me_inter_inter.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-2.2.4" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.2.4.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.2.4.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.2.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="lib" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.designhuddle.com_editor_v1_lib.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.designhuddle.com_editor_v1_lib.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="modern-normalize" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_modern-normalize_0.2.0_modern-normalize.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_modern-normalize_0.2.0_modern-normalize.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="tailwind-ui" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@tailwindcss_ui@latest_dist_tailwind-ui.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@tailwindcss_ui@latest_dist_tailwind-ui.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="tailwindcss" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tailwindcss@^1.0_dist_tailwind.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tailwindcss@^1.0_dist_tailwind.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
