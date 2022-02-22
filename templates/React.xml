@@ -334,6 +334,7 @@
     <variable name="state" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="setState" expression="capitalize(String)" defaultValue="$STATE$" alwaysStopAt="false" />
     <variable name="initState" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="srt" value="import React from 'react';&#10;&#10;export default function $NAME$() {&#10;&#10;    return (&#10;        $END$&#10;    );&#10;}" description="standard react template" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
@@ -344,38 +345,47 @@
   <template name="useEffect" value="useEffect(() =&gt; {&#10;  return () =&gt; {&#10;    $effect$&#10;  };&#10;}, [$input$]);&#10;$END$" description="useEffect" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="effect" expression="" defaultValue="&quot;effect&quot;" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="useContext" value="const $context$ = useContext($contextValue$);$END$" description="useContext" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="context" expression="" defaultValue="&quot;context&quot;" alwaysStopAt="true" />
     <variable name="contextValue" expression="" defaultValue="&quot;contextValue&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="useCallback" value="useCallback(&#10;  () =&gt; {&#10;    $callback$&#10;  },&#10;  [$input$],&#10;);&#10;$END$" description="useCallback" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="callback" expression="" defaultValue="&quot;callback&quot;" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="useImperativeHandle" value="useImperativeHandle(&#10;  $ref$,&#10;  () =&gt; {&#10;    $handler$&#10;  },&#10;  [$input$],&#10;);&#10;$END$" description="useImperativeHandle" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ref" expression="" defaultValue="&quot;ref&quot;" alwaysStopAt="true" />
     <variable name="handler" expression="" defaultValue="&quot;handler&quot;" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="useReducer" value="const [state, dispatch] = useReducer($reducer$, $initialState$, $init$);$END$" description="useReducer" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="reducer" expression="" defaultValue="&quot;reducer&quot;" alwaysStopAt="true" />
     <variable name="initialState" expression="" defaultValue="&quot;initialState&quot;" alwaysStopAt="true" />
     <variable name="init" expression="" defaultValue="&quot;init&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="useMemo" value="useMemo(() =&gt; $function$, $input$);$END$" description="useMemo" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="function" expression="" defaultValue="&quot;function&quot;" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="useRef" value="const $ref$ = useRef($initialValue$);$END$" description="useRef" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ref" expression="" defaultValue="&quot;ref&quot;" alwaysStopAt="true" />
     <variable name="initialValue" expression="" defaultValue="&quot;initialValue&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="useLayoutEffect" value="useLayoutEffect(() =&gt; {&#10;  return () =&gt; {&#10;    $effect$&#10;  },&#10;  [$input$]&#10;});&#10;$END$" description="useLayoutEffect" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="effect" expression="" defaultValue="&quot;effect&quot;" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="useDebugValue" value="useDebugValue($value$);$END$" description="useDebugValue" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
