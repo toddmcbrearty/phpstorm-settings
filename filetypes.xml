@@ -6,7 +6,6 @@
       <mapping pattern="readme" type="AUTO_DETECTED" />
       <mapping pattern="iterm_designer" type="AUTO_DETECTED" />
       <mapping pattern=".eslint" type="JSON" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="Button" type="PLAIN_TEXT" />
       <mapping pattern=".keys" type="PLAIN_TEXT" />
       <mapping pattern="browserlist" type="PLAIN_TEXT" />
