@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
   <action id="Console.TableResult.SetDefault" />
+  <action id="ContextHelp" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
