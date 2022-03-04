@@ -1,7 +1,4 @@
 <application>
-  <component name="DependencyUISettings">
-    <option name="UI_SHOW_FILES" value="false" />
-  </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
