@@ -4,17 +4,17 @@
     <property name="created">2018-03-16T00:39:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2021-10-14T11:17:57</property>
+    <property name="modified">2022-04-12T14:48:38</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.8" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Mono for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
