@@ -24,6 +24,10 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern icon="question" case-sensitive="true" pattern="\b\&lt;Todo\b.*" />
+    <pattern icon="question" pattern="\b\&lt;Todo\b.*" />
+    <pattern pattern="todo.*remove me" />
+    <filter name="remove me's">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>
