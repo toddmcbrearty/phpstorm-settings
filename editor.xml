@@ -25,8 +25,18 @@
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
     <pattern icon="question" pattern="\b\&lt;Todo\b.*" />
-    <pattern pattern="todo.*remove me" />
+    <pattern icon="important" pattern="todo.*remove me" />
+    <pattern icon="important" useCustomColors="true" pattern="todo.*im-next">
+      <option name="FOREGROUND" value="ff8171" />
+      <option name="BACKGROUND" value="7c0009" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
     <filter name="remove me's">
+      <pattern index="2" />
+    </filter>
+    <filter name="im next/remove me">
+      <pattern index="3" />
       <pattern index="2" />
     </filter>
   </component>
