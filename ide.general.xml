@@ -26,6 +26,7 @@
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Encoding" value="false" />
+        <entry key="FlowJSInfo" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
         <entry key="PowerSaveMode" value="true" />
