@@ -23,6 +23,7 @@
       <mapping ext="sketch" type="PLAIN_TEXT" />
       <mapping ext="state" type="PLAIN_TEXT" />
       <mapping ext="shj" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
