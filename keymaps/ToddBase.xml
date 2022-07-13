@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+<keymap version="1" name="ToddBase" parent="Mac OS X 10.5+">
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta numpad8" />
   </action>
