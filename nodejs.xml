@@ -62,4 +62,12 @@
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.14.0/bin/node" excluded="true" />
   </component>
+  <component name="NodeJsRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker-compose://[/Users/todd/Code/ludville/docker-compose.yml]:laravel.test/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="laravel.test" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/Code/ludville/docker-compose.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs />
+    </interpreter>
+  </component>
 </application>
