@@ -6,7 +6,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="cbet" value="    &lt;x-email-layout :brandColor=&quot;$brandColor&quot;&#10;                    preheader=&quot;{{$preheader}}&quot;&gt;&#10;        &lt;x-table&gt;&#10;            &lt;tr&gt;&#10;                &lt;td&gt;&#10;                    &lt;h1&gt;{{$headline}}&lt;/h1&gt;&#10;                    &lt;p&gt;line 1&lt;/p&gt;&#10;                    &lt;p&gt;line 2&lt;/p&gt;&#10;                    &lt;x-button href=&quot;{{$buttonLink}}&quot;&gt;Go To Dashboard&lt;/x-button&gt;&#10;                &lt;/td&gt;&#10;            &lt;/tr&gt;&#10;        &lt;/x-table&gt;&#10;    &lt;/x-email-layout&gt;" description="creates email blade template" toReformat="false" toShortenFQNames="true">
+  <template name="cbet" value="    &lt;x-email-layout :brandColor=&quot;$brandColor&quot;&#10;                    preheader=&quot;$preheader&quot;&gt;&#10;        &lt;x-table&gt;&#10;            &lt;tr&gt;&#10;                &lt;td&gt;&#10;                    &lt;h1&gt;$headline&lt;/h1&gt;&#10;                    &lt;p&gt;line 1&lt;/p&gt;&#10;                    &lt;p&gt;line 2&lt;/p&gt;&#10;                    &lt;x-button href=&quot;{{$buttonLink}}&quot;&gt;Go To Dashboard&lt;/x-button&gt;&#10;                &lt;/td&gt;&#10;            &lt;/tr&gt;&#10;        &lt;/x-table&gt;&#10;    &lt;/x-email-layout&gt;" description="creates email blade template" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
