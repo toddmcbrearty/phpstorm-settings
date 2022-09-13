@@ -1,9 +1,11 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jumpbox" id="2e890922-ed68-4ac9-9408-3f8bb6e888a9" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="c9" id="f963be98-8f29-4d55-8de7-263b1e2fdc41" localPort="22" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="c9" id="23448823-bf13-4cb5-bd54-92a521a158d1" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jumpbox" id="0caaeb4e-3ef4-4781-9506-f9d2bd826411" port="22" customName="ec2-user@jumpbox:22 agent22" nameFormat="CUSTOM" username="ec2-user">
+        <option name="customName" value="ec2-user@jumpbox:22 agent22" />
+      </sshConfig>
     </configs>
   </component>
 </application>
