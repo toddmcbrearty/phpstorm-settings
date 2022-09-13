@@ -6,6 +6,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jumpbox" id="0caaeb4e-3ef4-4781-9506-f9d2bd826411" port="22" customName="ec2-user@jumpbox:22 agent22" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="ec2-user@jumpbox:22 agent22" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jumpbox" id="2a2d86d6-35b7-4a48-9023-9c78fcba23cc" port="22" customName="ec2-user@jumpbox:22 agent222" nameFormat="CUSTOM" username="ec2-user">
+        <option name="customName" value="ec2-user@jumpbox:22 agent222" />
+      </sshConfig>
     </configs>
   </component>
 </application>
