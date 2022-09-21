@@ -13,10 +13,10 @@
       <jdbc-url>jdbc:mysql://giftogram20enc.cfyuscwcftqh.us-east-1.rds.amazonaws.com/giftogram20</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="DEVELOPMENT" uuid="4b49a4d9-6cb1-49d3-9508-9b3940e6a2fc">
-      <driver-ref>mysql.8</driver-ref>
+      <driver-ref>mysql_aurora</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://ggdev2-cluster.cluster-cfyuscwcftqh.us-east-1.rds.amazonaws.com/giftogram20</jdbc-url>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://ggdev2-cluster.cluster-cfyuscwcftqh.us-east-1.rds.amazonaws.com/giftogram20</jdbc-url>
       <jdbc-additional-properties>
         <property name="APPROVED_DRIVER" value="mysql.8" />
       </jdbc-additional-properties>
