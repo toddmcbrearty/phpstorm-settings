@@ -1,4 +1,9 @@
 <application>
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <phpcs_fixer_by_interpreter interpreter_id="27c600e8-06da-4416-8568-6f316311e8bc" standards="DoctrineAnnotation;PHP54Migration;PHP56Migration;PHP70Migration;PHP71Migration;PHP73Migration;PHP74Migration;PHP80Migration;PHP81Migration;PHPUnit30Migration;PHPUnit32Migration;PHPUnit35Migration;PHPUnit43Migration;PHPUnit48Migration;PHPUnit50Migration;PHPUnit52Migration;PHPUnit54Migration;PHPUnit55Migration;PHPUnit56Migration;PHPUnit57Migration;PHPUnit60Migration;PHPUnit75Migration;PHPUnit84Migration;PSR1;PSR12;PSR2;PhpCsFixer;Symfony" tool_path="/Users/todd/Code/gg-api/vendor/bin/php-cs-fixer" timeout="30000" />
+    </phpcsfixer_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="27c600e8-06da-4416-8568-6f316311e8bc" name="PHP" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
