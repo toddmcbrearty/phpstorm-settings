@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialCustomThemeConfig">
+    <option name="colorScheme" value="Material Deep Ocean" />
     <option name="excludedColor" value="2e3c43ff" />
     <option name="accentColor" value="009688ff" />
     <option name="notificationsColor" value="323232ff" />
