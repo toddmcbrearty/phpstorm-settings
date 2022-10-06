@@ -1,9 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactStatusBar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="styledDirectories" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isStyledDirectories" value="true" />
@@ -16,9 +13,9 @@
     <option name="treeFontSize" value="14" />
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="5" />
-    <option name="accentColor" value="7cb342" />
+    <option name="accentColor" value="3f51b5" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-8d42139:163ea72f20e:-7fff" />
-    <option name="version" value="5.5.0" />
-    <option name="stripedToolWindowsEnabled" value="false" />
+    <option name="version" value="7.11.0" />
   </component>
 </application>
