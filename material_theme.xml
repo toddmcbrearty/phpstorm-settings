@@ -14,10 +14,10 @@
     <option name="useMaterialFont2" value="true" />
     <option name="useProjectFrame" value="true" />
     <option name="treeFontSize" value="14" />
+    <option name="highlightThickness" value="1" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="5" />
+    <option name="tabsHeight" value="27" />
     <option name="accentColor" value="3f51b5" />
-    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-8d42139:163ea72f20e:-7fff" />
     <option name="version" value="7.11.0" />
   </component>
