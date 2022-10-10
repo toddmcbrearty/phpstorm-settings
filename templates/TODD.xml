@@ -16,4 +16,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="fact" value="namespace GiftogramCommon\Database\Factories;&#10;&#10;use Illuminate\Database\Eloquent\Factories\Factory;&#10;use GiftogramCommon\Models\$MODEL_NAME$;&#10;&#10;class $MODEL_NAME$Factory extends Factory&#10;{&#10;    protected $model = $MODEL_NAME$::class;&#10;&#10;    public function definition()&#10;    {&#10;        return [&#10;            $END$&#10;        ];&#10;    }&#10;}" description="Create laravel factory" toReformat="true" toShortenFQNames="true">
+    <variable name="MODEL_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
