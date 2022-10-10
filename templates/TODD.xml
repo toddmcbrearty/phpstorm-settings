@@ -10,7 +10,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="seeder" value="namespace GiftogramCommon\Database\Seeders;&#10;&#10;use Illuminate\Database\Seeder;&#10;use GiftogramCommon\Models\$MODEL_NAME$;&#10;&#10;class $MODEL_NAME$Seeder extends Seeder&#10;{&#10;&#10;    public function handler()&#10;    {&#10;        $MODEL_NAME$::create([&#10;            $END$,&#10;        ]);&#10;    }&#10;}&#10;" description="Creates a laravel seeder" toReformat="true" toShortenFQNames="true">
+  <template name="seeder" value="namespace GiftogramCommon\Database\Seeders;&#10;&#10;use Illuminate\Database\Seeder;&#10;use GiftogramCommon\Models\$MODEL_NAME$;&#10;&#10;class $MODEL_NAME$Seeder extends Seeder&#10;{&#10;&#10;    public function run()&#10;    {&#10;        $MODEL_NAME$::create([&#10;            $END$,&#10;        ]);&#10;    }&#10;}&#10;" description="Creates a laravel seeder" toReformat="true" toShortenFQNames="true">
     <variable name="MODEL_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
