@@ -8,6 +8,7 @@
     <option name="value">
       <map>
         <entry key="IsIncludeCodeWithReference" value="true" />
+        <entry key="OptInSendingMetric" value="false" />
       </map>
     </option>
   </component>
