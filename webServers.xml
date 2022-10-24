@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="7a71b743-dd8f-40a8-b440-9746e40bd7a2" name="GGAPI" url="https://ggtodd2frapi.giftogram.com">
+        <fileTransfer rootFolder="/home/ubuntu/environment/gg-api" accessType="SFTP" host="c9" port="22" sshConfigId="f963be98-8f29-4d55-8de7-263b1e2fdc41" sshConfig="ubuntu@c9:22:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="cfb0e2d3-9ee5-470c-a96e-a419ee36298d" name="Ordersite API" url="https://ggtodd2api.giftogram.com/">
         <fileTransfer rootFolder="/home/ubuntu/environment/giftogram-order-site/dev/api" accessType="SFTP" host="c9" port="22" sshConfigId="23448823-bf13-4cb5-bd54-92a521a158d1" sshConfig="ubuntu@c9:22 agent" authAgent="true">
           <advancedOptions>
