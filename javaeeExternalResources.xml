@@ -2,6 +2,5 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="https://schema.phpunit.de/9.3/phpunit.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2022.1/extResources/e8546028_phpunit.xsd" />
     <ignored-resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" />
-    <ignored-resource url="https://fonts.googleapis.com/css" />
   </component>
 </application>
