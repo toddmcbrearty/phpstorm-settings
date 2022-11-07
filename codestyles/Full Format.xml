@@ -12,6 +12,7 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
     <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
+    <option name="OBJECT_LITERAL_WRAP" value="2" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="BLACKLIST_IMPORTS" value="rxjs/Rx,node_modules/**,**/node_modules/**,@angular/material,@angular/material/typings/**,@types/react" />
