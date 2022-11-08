@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="d81b27e8-cc86-4247-bdf7-9d353f6e94f2" name="Admin" url="https://ggtodd2frapi.giftogram.com">
+        <fileTransfer rootFolder="/home/ubuntu/environment/giftogram-admin" accessType="SFTP" host="c9" port="22" sshConfigId="23448823-bf13-4cb5-bd54-92a521a158d1" sshConfig="ubuntu@c9:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
