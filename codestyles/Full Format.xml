@@ -32,6 +32,9 @@
   <TypeScriptCodeStyleSettings version="0">
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </TypeScriptCodeStyleSettings>
+  <VueCodeStyleSettings>
+    <option name="UNIFORM_INDENT" value="false" />
+  </VueCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
     <option name="SOFT_MARGINS" value="120" />
