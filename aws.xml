@@ -16,7 +16,7 @@
     <option name="token" value="eyJraWQiOiIwOTdkM2EyMi1hNjkzLTQ2YzktODQyYy05YTMxZmFlYzAwMjYiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoiQUNDRVNTX1RPS0VOIiwiZXhwIjoxNjg3MzA1NjAwLCJ1dWlkIjoiNDIyNzRkNDktMTBkZi00ODc3LTlhZTYtNDIwNGU3M2JmZTVlIiwiaWF0IjoxNjY1NjgyNDUyLCJlbWFpbCI6InRtY2JyZWFydHlAZ2lmdG9ncmFtLmNvbSJ9.PZ4XvCU-nShABBuI5SE3JzDjPnAvCE9RGPtyeLfaXXQ" />
     <option name="value">
       <map>
-        <entry key="IsAutoEnabled" value="true" />
+        <entry key="IsAutoEnabled" value="false" />
         <entry key="IsManualEnabled" value="true" />
         <entry key="HasAcceptedTermsOfServices" value="true" />
       </map>
